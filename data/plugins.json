@@ -8,26 +8,16 @@
     "unmapped_plugins": 10,
     "multi_module_plugins": 8,
     "mapping_suggestions": [
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      },
-      {
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   },
   "plugins": [
@@ -36,8 +26,7 @@
       "owner": "Civitasv",
       "repo": "cmake-tools.nvim",
       "loadOrder": 1,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.cmake",
       "is_core": false,
       "lazy": true,
@@ -52,8 +41,7 @@
       "owner": "CopilotC-Nvim",
       "repo": "CopilotChat.nvim",
       "loadOrder": 2,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ai.copilot-chat",
       "is_core": false,
       "cmd": "CopilotChat",
@@ -71,8 +59,7 @@
       "owner": "Exafunction",
       "repo": "codeium.nvim",
       "loadOrder": 3,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ai.codeium",
       "is_core": false,
       "event": "InsertEnter",
@@ -88,8 +75,7 @@
       "owner": "Hoffs",
       "repo": "omnisharp-extended-lsp.nvim",
       "loadOrder": 4,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.dotnet",
       "is_core": false,
       "lazy": true,
@@ -104,8 +90,7 @@
       "owner": "JoosepAlviste",
       "repo": "nvim-ts-context-commentstring",
       "loadOrder": 5,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.coding.mini-comment",
       "is_core": false,
       "lazy": true,
@@ -120,8 +105,7 @@
       "owner": "LazyVim",
       "repo": "LazyVim",
       "loadOrder": 6,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.init",
       "is_core": true,
       "lazy": false,
@@ -139,8 +123,7 @@
       "owner": "MagicDuck",
       "repo": "grug-far.nvim",
       "loadOrder": 7,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "cmd": [
@@ -158,8 +141,7 @@
       "owner": "MeanderingProgrammer",
       "repo": "render-markdown.nvim",
       "loadOrder": 8,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.markdown",
       "is_core": false,
       "ft": [
@@ -180,8 +162,7 @@
       "owner": "MunifTanjim",
       "repo": "nui.nvim",
       "loadOrder": 9,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.ui",
       "is_core": true,
       "lazy": true,
@@ -196,8 +177,7 @@
       "owner": "Olical",
       "repo": "conjure",
       "loadOrder": 10,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.clojure",
       "is_core": false,
       "event": "LazyFile",
@@ -212,8 +192,7 @@
       "owner": "R-nvim",
       "repo": "R.nvim",
       "loadOrder": 11,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.r",
       "is_core": false,
       "lazy": false,
@@ -228,8 +207,7 @@
       "owner": "RRethy",
       "repo": "vim-illuminate",
       "loadOrder": 12,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.illuminate",
       "is_core": false,
       "event": "LazyFile",
@@ -244,8 +222,7 @@
       "owner": "Saecki",
       "repo": "crates.nvim",
       "loadOrder": 13,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.rust",
       "is_core": false,
       "event": [
@@ -262,8 +239,7 @@
       "owner": "SmiteshP",
       "repo": "nvim-navic",
       "loadOrder": 14,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.navic",
       "is_core": false,
       "lazy": true,
@@ -299,8 +275,7 @@
       "owner": "ahmedkhalf",
       "repo": "project.nvim",
       "loadOrder": 16,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.project",
       "is_core": false,
       "event": "VeryLazy",
@@ -315,8 +290,7 @@
       "owner": "akinsho",
       "repo": "bufferline.nvim",
       "loadOrder": 17,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.ui",
       "is_core": true,
       "event": "VeryLazy",
@@ -331,8 +305,7 @@
       "owner": "alker0",
       "repo": "chezmoi.vim",
       "loadOrder": 18,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.chezmoi",
       "is_core": false,
       "version_info": {
@@ -346,8 +319,7 @@
       "owner": "b0o",
       "repo": "SchemaStore.nvim",
       "loadOrder": 19,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.json",
       "is_core": false,
       "lazy": true,
@@ -363,8 +335,7 @@
       "owner": "catppuccin",
       "repo": "nvim",
       "loadOrder": 20,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.colorscheme",
       "is_core": true,
       "lazy": true,
@@ -379,8 +350,7 @@
       "owner": "chomosuke",
       "repo": "typst-preview.nvim",
       "loadOrder": 21,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.typst",
       "is_core": false,
       "cmd": [
@@ -399,8 +369,7 @@
       "owner": "folke",
       "repo": "edgy.nvim",
       "loadOrder": 22,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ui.edgy",
       "is_core": false,
       "event": "VeryLazy",
@@ -415,8 +384,7 @@
       "owner": "folke",
       "repo": "flash.nvim",
       "loadOrder": 23,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "event": "VeryLazy",
@@ -431,8 +399,7 @@
       "owner": "folke",
       "repo": "lazy.nvim",
       "loadOrder": 24,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.init",
       "is_core": true,
       "version_info": {
@@ -448,8 +415,7 @@
       "owner": "folke",
       "repo": "lazydev.nvim",
       "loadOrder": 25,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.coding",
       "is_core": true,
       "cmd": "LazyDev",
@@ -465,8 +431,7 @@
       "owner": "folke",
       "repo": "noice.nvim",
       "loadOrder": 26,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.ui",
       "is_core": true,
       "event": "VeryLazy",
@@ -481,8 +446,7 @@
       "owner": "folke",
       "repo": "persistence.nvim",
       "loadOrder": 27,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.util",
       "is_core": true,
       "event": "BufReadPre",
@@ -497,14 +461,13 @@
       "owner": "folke",
       "repo": "snacks.nvim",
       "loadOrder": 28,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.init",
       "is_core": true,
       "lazy": false,
       "priority": 1000,
       "version_info": {
-        "commit": "2099572fe8b7296ecda13e20b553e9cd873cf165",
+        "commit": "fe7cfe9800a182274d0f868a74b7263b8c0c020b",
         "sha256": "04bgxw95v96sxn6x52zfviqabzkaxxj6wwya1sv5qkkbls1q8pkr",
         "fetched_at": "2025-11-02T16:46:47Z"
       }
@@ -514,8 +477,7 @@
       "owner": "folke",
       "repo": "todo-comments.nvim",
       "loadOrder": 29,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "event": "LazyFile",
@@ -534,8 +496,7 @@
       "owner": "folke",
       "repo": "tokyonight.nvim",
       "loadOrder": 30,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.colorscheme",
       "is_core": true,
       "lazy": true,
@@ -550,8 +511,7 @@
       "owner": "folke",
       "repo": "trouble.nvim",
       "loadOrder": 31,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "cmd": [
@@ -568,8 +528,7 @@
       "owner": "folke",
       "repo": "ts-comments.nvim",
       "loadOrder": 32,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.coding",
       "is_core": true,
       "event": "VeryLazy",
@@ -584,8 +543,7 @@
       "owner": "folke",
       "repo": "which-key.nvim",
       "loadOrder": 33,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "event": "VeryLazy",
@@ -600,8 +558,7 @@
       "owner": "ggandor",
       "repo": "flit.nvim",
       "loadOrder": 34,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.leap",
       "is_core": false,
       "enabled": true,
@@ -616,8 +573,7 @@
       "owner": "ggandor",
       "repo": "leap.nvim",
       "loadOrder": 35,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.leap",
       "is_core": false,
       "enabled": true,
@@ -632,8 +588,7 @@
       "owner": "goolord",
       "repo": "alpha-nvim",
       "loadOrder": 36,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ui.alpha",
       "is_core": false,
       "event": "VimEnter",
@@ -649,8 +604,7 @@
       "owner": "hedyhli",
       "repo": "outline.nvim",
       "loadOrder": 37,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.outline",
       "is_core": false,
       "cmd": "Outline",
@@ -685,8 +639,7 @@
       "owner": "iamcco",
       "repo": "markdown-preview.nvim",
       "loadOrder": 39,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.markdown",
       "is_core": false,
       "cmd": [
@@ -725,8 +678,7 @@
       "owner": "julienvincent",
       "repo": "nvim-paredit",
       "loadOrder": 41,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.clojure",
       "is_core": false,
       "event": "LazyFile",
@@ -741,8 +693,7 @@
       "owner": "kristijanhusak",
       "repo": "vim-dadbod-completion",
       "loadOrder": 42,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.sql",
       "is_core": false,
       "ft": [
@@ -761,8 +712,7 @@
       "owner": "kristijanhusak",
       "repo": "vim-dadbod-ui",
       "loadOrder": 43,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.sql",
       "is_core": false,
       "cmd": [
@@ -782,8 +732,7 @@
       "owner": "ldelossa",
       "repo": "gh.nvim",
       "loadOrder": 44,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.gh",
       "is_core": false,
       "version_info": {
@@ -797,8 +746,7 @@
       "owner": "ldelossa",
       "repo": "litee.nvim",
       "loadOrder": 45,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.gh",
       "is_core": false,
       "lazy": true,
@@ -813,8 +761,7 @@
       "owner": "lervag",
       "repo": "vimtex",
       "loadOrder": 46,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.tex",
       "is_core": false,
       "lazy": false,
@@ -829,8 +776,7 @@
       "owner": "lewis6991",
       "repo": "gitsigns.nvim",
       "loadOrder": 47,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.editor",
       "is_core": true,
       "event": "LazyFile",
@@ -845,8 +791,7 @@
       "owner": "lukas-reineke",
       "repo": "indent-blankline.nvim",
       "loadOrder": 48,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ui.indent-blankline",
       "is_core": false,
       "event": "LazyFile",
@@ -861,8 +806,7 @@
       "owner": "m00qek",
       "repo": "baleia.nvim",
       "loadOrder": 49,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.clojure",
       "is_core": false,
       "version_info": {
@@ -876,8 +820,7 @@
       "owner": "mason-org",
       "repo": "mason-lspconfig.nvim",
       "loadOrder": 50,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.lsp",
       "is_core": true,
       "version_info": {
@@ -891,8 +834,7 @@
       "owner": "mason-org",
       "repo": "mason.nvim",
       "loadOrder": 51,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.formatting",
       "is_core": true,
       "version_info": {
@@ -906,8 +848,7 @@
       "owner": "mfussenegger",
       "repo": "nvim-ansible",
       "loadOrder": 52,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.ansible",
       "is_core": false,
       "ft": [
@@ -960,8 +901,7 @@
       "owner": "mfussenegger",
       "repo": "nvim-lint",
       "loadOrder": 55,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.linting",
       "is_core": true,
       "event": "LazyFile",
@@ -998,8 +938,7 @@
       "owner": "mrcjkb",
       "repo": "haskell-tools.nvim",
       "loadOrder": 57,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.haskell",
       "is_core": false,
       "ft": [
@@ -1020,8 +959,7 @@
       "owner": "mrcjkb",
       "repo": "rustaceanvim",
       "loadOrder": 58,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.rust",
       "is_core": false,
       "ft": [
@@ -1056,8 +994,7 @@
       "owner": "nvim-lua",
       "repo": "plenary.nvim",
       "loadOrder": 60,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.util",
       "is_core": true,
       "lazy": true,
@@ -1072,8 +1009,7 @@
       "owner": "nvim-lualine",
       "repo": "lualine.nvim",
       "loadOrder": 61,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.ui",
       "is_core": true,
       "event": "VeryLazy",
@@ -1088,8 +1024,7 @@
       "owner": "nvim-mini",
       "repo": "mini.ai",
       "loadOrder": 62,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.ai",
@@ -1109,8 +1044,7 @@
       "owner": "nvim-mini",
       "repo": "mini.animate",
       "loadOrder": 63,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ui.mini-animate",
       "is_core": false,
       "event": "VeryLazy",
@@ -1125,8 +1059,7 @@
       "owner": "nvim-mini",
       "repo": "mini.comment",
       "loadOrder": 64,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.comment",
@@ -1146,8 +1079,7 @@
       "owner": "nvim-mini",
       "repo": "mini.diff",
       "loadOrder": 65,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.diff",
@@ -1167,8 +1099,7 @@
       "owner": "nvim-mini",
       "repo": "mini.icons",
       "loadOrder": 66,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.icons",
@@ -1188,8 +1119,7 @@
       "owner": "nvim-mini",
       "repo": "mini.indentscope",
       "loadOrder": 67,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.indentscope",
@@ -1210,8 +1140,7 @@
       "owner": "nvim-mini",
       "repo": "mini.move",
       "loadOrder": 68,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.move",
@@ -1231,8 +1160,7 @@
       "owner": "nvim-mini",
       "repo": "mini.pairs",
       "loadOrder": 69,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.pairs",
@@ -1269,8 +1197,7 @@
       "owner": "nvim-mini",
       "repo": "mini.starter",
       "loadOrder": 71,
-      "dependencies": {
-      },
+      "dependencies": {},
       "multiModule": {
         "basePackage": "mini-nvim",
         "module": "mini.starter",
@@ -1291,8 +1218,7 @@
       "owner": "nvim-neo-tree",
       "repo": "neo-tree.nvim",
       "loadOrder": 72,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.neo-tree",
       "is_core": false,
       "cmd": "Neotree",
@@ -1323,8 +1249,7 @@
       "owner": "nvim-treesitter",
       "repo": "nvim-treesitter",
       "loadOrder": 74,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.treesitter",
       "is_core": true,
       "event": [
@@ -1351,8 +1276,7 @@
       "owner": "nvim-treesitter",
       "repo": "nvim-treesitter-textobjects",
       "loadOrder": 75,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.treesitter",
       "is_core": true,
       "event": "VeryLazy",
@@ -1370,8 +1294,7 @@
       "owner": "nvimdev",
       "repo": "dashboard-nvim",
       "loadOrder": 76,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ui.dashboard-nvim",
       "is_core": false,
       "lazy": false,
@@ -1403,8 +1326,7 @@
       "owner": "p00f",
       "repo": "clangd_extensions.nvim",
       "loadOrder": 78,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.clangd",
       "is_core": false,
       "lazy": true,
@@ -1419,8 +1341,7 @@
       "owner": "pwntester",
       "repo": "octo.nvim",
       "loadOrder": 79,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.octo",
       "is_core": false,
       "event": [
@@ -1440,8 +1361,7 @@
       "owner": "qvalentin",
       "repo": "helm-ls.nvim",
       "loadOrder": 80,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.helm",
       "is_core": false,
       "ft": "helm",
@@ -1516,8 +1436,7 @@
       "owner": "smjonas",
       "repo": "inc-rename.nvim",
       "loadOrder": 84,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.inc-rename",
       "is_core": false,
       "cmd": "IncRename",
@@ -1532,8 +1451,7 @@
       "owner": "stevearc",
       "repo": "aerial.nvim",
       "loadOrder": 85,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.aerial",
       "is_core": false,
       "event": "LazyFile",
@@ -1566,8 +1484,7 @@
       "owner": "stevearc",
       "repo": "overseer.nvim",
       "loadOrder": 87,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.overseer",
       "is_core": false,
       "cmd": [
@@ -1596,8 +1513,7 @@
       "owner": "supermaven-inc",
       "repo": "supermaven-nvim",
       "loadOrder": 88,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ai.supermaven",
       "is_core": false,
       "event": "InsertEnter",
@@ -1616,8 +1532,7 @@
       "owner": "tpope",
       "repo": "vim-dadbod",
       "loadOrder": 89,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.lang.sql",
       "is_core": false,
       "cmd": "DB",
@@ -1632,8 +1547,7 @@
       "owner": "tpope",
       "repo": "vim-repeat",
       "loadOrder": 90,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.editor.leap",
       "is_core": false,
       "event": "VeryLazy",
@@ -1648,8 +1562,7 @@
       "owner": "windwp",
       "repo": "nvim-ts-autotag",
       "loadOrder": 91,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "core.treesitter",
       "is_core": true,
       "event": "LazyFile",
@@ -1664,8 +1577,7 @@
       "owner": "xvzc",
       "repo": "chezmoi.nvim",
       "loadOrder": 92,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.util.chezmoi",
       "is_core": false,
       "cmd": [
@@ -1682,8 +1594,7 @@
       "owner": "yetone",
       "repo": "avante.nvim",
       "loadOrder": 93,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ai.avante",
       "is_core": false,
       "event": "VeryLazy",
@@ -1713,8 +1624,7 @@
       "owner": "zbirenbaum",
       "repo": "copilot.lua",
       "loadOrder": 94,
-      "dependencies": {
-      },
+      "dependencies": {},
       "source_file": "extras.ai.copilot",
       "is_core": false,
       "event": "BufReadPost",
